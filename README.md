@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @emanuelle2007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bem vindo ao perfil #
+- eu sou emanuelle lopes costa
+-tenho 16 anos
+- estou estudando na Alura.
+- estou me desenvolvendo na linguaguem javaScript
+- utilizo esse espaço para minha organização a compartilhar dos meus projetos desenvolvidos
 
-<!---
-emanuelle2007/emanuelle2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+![](https://magazinefeminina.com.br/wp-content/uploads/2023/03/papel-de-parede-para-celular-corinthians-450x623.jpg)
